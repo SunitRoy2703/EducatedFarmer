@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EducatedFarmer</string>
+    <string name="title_home">Home</string>
+    <string name="title_cropplan">CropPlan</string>
+    <string name="title_cropcare">CropCare</string>
+    <string name="farmer_voice">FarmerVoice</string>
+</resources>
